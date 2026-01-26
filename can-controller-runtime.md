@@ -4,7 +4,7 @@
 
 *Prepared as an independent technical reference.*
 
-*This document is a personal technical reference for CAN bus bring-up and STM32 IOC configuration in embedded systems.*
+*This document is a personal technical reference documenting validated operating behavior and baseline configuration from a completed CAN network project.*
 
 ---
 
